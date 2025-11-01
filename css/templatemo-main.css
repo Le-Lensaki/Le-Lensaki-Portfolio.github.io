@@ -403,6 +403,23 @@ nav a:hover::before {
 	background-color: transparent;
 }
 
+.left-content .fb-btn a {
+	display: inline-block;
+	background-color: #fff;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #232323;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+.left-content .fb-btn a:hover {
+	color: #fff;
+	background-color: transparent;
+}
 
 .second-content .container-fluid {
 	padding-right: 0px;
